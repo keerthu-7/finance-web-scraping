@@ -1,0 +1,2 @@
+class InvalidCIK(Exception):
+    pass
